@@ -1,11 +1,12 @@
 {
   "name": "jazzlevit/tuner",
+  "version": "1.0.0",
   "description": "This is musician tuner package",
   "license": "MIT",
   "authors": [
     {
-      "name": "Your Name",
-      "email": "your.email@example.com"
+      "name": "Alex Stetsenko",
+      "email": "jazzlevit@gmail.com"
     }
   ],
   "require": {
