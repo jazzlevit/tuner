@@ -1,6 +1,6 @@
 <?php
 
-namespace Tuner;
+namespace Jazzlevit\Tuner;
 
 interface TuningInterface
 {
